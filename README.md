@@ -19,7 +19,7 @@ Installation
 
 bash
 
-git clone https://github.com/yourusername/aws-ec2-unauthorized-launch-detector.git
+git clone https://github.com/HackGroot/aws_ec2_unauthorized_launch_detector.py.git
 
     Install the required Python packages:
 
